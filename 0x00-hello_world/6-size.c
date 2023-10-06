@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main - C program that prints the size of various types
- * Code by Prince Solomon
  * Return: 0
 */
 int main(void)
